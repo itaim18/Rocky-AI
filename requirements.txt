@@ -1,0 +1,5 @@
+opencv-python==4.8.1.78
+numpy==1.24.4
+requests==2.31.0
+inference-sdk==3.2.5
+python-vlc==3.0.18121
