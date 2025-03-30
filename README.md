@@ -3,6 +3,11 @@
 
 Rocky AI is a **real-time pose estimation app** built for Raspberry Pi 5 with the **Raspberry Pi AI Camera (IMX500)**. It detects body movements during shadowboxing, tracks keypoints like wrists and ankles, and delivers motivational voiceovers in **Rocky Balboa's style**, powered by **OpenAI** and **ElevenLabs**.
 
+
+
+https://github.com/user-attachments/assets/d4919ba5-95ff-4118-863a-e3ce41e53d1f
+
+
 ---
 
 ## 📦 Features
